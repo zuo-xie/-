@@ -20,7 +20,7 @@ Spring用来存储Bean的容器有两中容器`BeanFactory（Bean工厂）`和`A
 `ApplicationContext`拥有`BeanFactory`的所有功能。
 
 ##### `Bean`的作用域
-在springboot中
+在springboot中，Bean的作用域
 
 ##### `Bean`的生命周期
 
